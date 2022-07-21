@@ -4,4 +4,4 @@
 # CHECK ✅ DEMO
 [![TIMER ⏳](https://img.shields.io/badge/CLOCK-003245?style=flat&labelColor=224242&logoColor=white&square&logo=google)](https://social-mechanic-1997.github.io/CLOCK-MODEAL/)&nbsp;
 # CREATED BY
--[SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-1997)
+- [SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-1997)
